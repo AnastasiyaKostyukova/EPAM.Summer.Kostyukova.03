@@ -1,0 +1,9 @@
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\NumericalMethodsNUnitTests.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\NumericalMethodsNUnitTests.pdb
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\obj\Debug\NumericalMethodsNUnitTests.csprojResolveAssemblyReference.cache
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\obj\Debug\NumericalMethodsNUnitTests.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\obj\Debug\NumericalMethodsNUnitTests.pdb
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\NumericalMethods.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\nunit.framework.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\NumericalMethods.pdb
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethodsNUnitTests\bin\Debug\nunit.framework.xml

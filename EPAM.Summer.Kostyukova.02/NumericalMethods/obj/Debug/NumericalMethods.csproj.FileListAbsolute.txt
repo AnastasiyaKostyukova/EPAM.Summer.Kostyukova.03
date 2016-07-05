@@ -1,0 +1,5 @@
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethods\bin\Debug\NumericalMethods.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethods\bin\Debug\NumericalMethods.pdb
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethods\obj\Debug\NumericalMethods.csprojResolveAssemblyReference.cache
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethods\obj\Debug\NumericalMethods.dll
+D:\Training\Tasks\Day2\EPAM.Summer.Kostyukova.02\NumericalMethods\obj\Debug\NumericalMethods.pdb
